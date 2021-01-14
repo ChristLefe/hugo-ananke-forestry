@@ -1,7 +1,7 @@
 ---
-title: 'Ananke: a Hugo Theme'
-featured_image: "/images/gohugo-default-sample-hero-image.jpg"
-description: The last theme you'll ever need. Maybe.
+title: Les bases du marketing digital
+featured_image: "/images/explorenation-ldme_27jw1q-unsplash.jpg"
+description: Le blogger qui vous guide dans le monde du marketing.
 
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Apprenez simplement, comprenez facilement
