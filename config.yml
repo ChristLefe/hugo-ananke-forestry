@@ -23,7 +23,7 @@ params:
   twitter: 'https://twitter.com/christlefe_'
   instagram: 'https://www.instagram.com/lefe.ch/?hl=fr'
   youtube: ''
-  body_classes: bg-black
+  body_classes: bg-white
   github: ''
   gitlab: ''
   linkedin: ''
