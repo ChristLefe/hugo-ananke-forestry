@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "fr-fr"
-title: "Le P'tit Marketeu"
+title: "Le Petit Marketeu"
 
 module:
   imports:
