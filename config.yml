@@ -1,6 +1,6 @@
 baseURL: "/"
-languageCode: "en-us"
-title: "Hugo Ananke Forestry Starter"
+languageCode: "fr-fr"
+title: "Le p'tit marketeu"
 
 module:
   imports:
