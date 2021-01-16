@@ -1,7 +1,7 @@
 ---
-title: Les bases du marketing digital
+title: Mandala World
 featured_image: "/images/pexels-mikael-blomkvist-6483582.jpg"
-description: Le blogger qui vous guide dans le monde du marketing.
+description: ''
 
 ---
 Apprenez simplement. Comprenez facilement
