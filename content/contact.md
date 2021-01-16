@@ -8,6 +8,4 @@ menu:
   main: {}
 
 ---
-Check out [Formspree](https://formspree.io/) for a simple, free form service.
-
 {{< form-contact action="https://example.com"  >}}
