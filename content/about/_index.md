@@ -1,7 +1,7 @@
 ---
 title: A propos
 description: L'étudiant qui voulait transmettre
-featured_image: ''
+featured_image: "/images/pexels-mikael-blomkvist-6483583.jpg"
 
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
